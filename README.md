@@ -10,5 +10,7 @@ Staganographer can be used to hide text within images.
 
 ## How to use?
 
-1) Download the exe file.  2) Use. 
+1) Download the exe file.  
+2) Use.  
+
 Easy right?
