@@ -1,3 +1,4 @@
+![Steganographer Logo](https://raw.githubusercontent.com/rupindr/Steganographer/master/docs/Steganographer%20Logo%20Transparent.png)
 # Steganographer
 
 Note: I developed this project a long time ago when I was in college.
